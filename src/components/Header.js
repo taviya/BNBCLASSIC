@@ -23,7 +23,7 @@ export default function Header() {
                                     data-bs-target="#offcanvasExample" aria-controls="offcanvasExample">
                                     <span class="navbar-toggler-icon"></span>
                                 </button>
-                                <a class="flex-shrink-0 navbar-brand p-0" target="_blank" rel="noreferrer" href="https://digipad.io/">
+                                <a class="flex-shrink-0 navbar-brand p-0" target="_blank" rel="noreferrer" href="https://dnbclassic.io/">
                                     {/* <!--<img class="w-100 lazy" src="assets/images/logo-black.png" alt="">--> */}
                                     <img class="w-100 mob-none lazy" src={logoBlack} alt="logoblack" />
                                     <img class="mob-logo desk-none" src={logoMobile} alt="logoblack" />
@@ -34,16 +34,16 @@ export default function Header() {
                                     <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
                                         <li class="nav-item">
                                             <a class="nav-link p-0 text-dark" aria-current="page" target="_blank" rel="noreferrer"
-                                                href="https://digipad.io/">Home</a>
+                                                href="https://dnbclassic.io/">Home</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="nav-link p-0 text-dark active" target="_blank" rel="noreferrer" href="https://www.launchpad.digipad.io/">Launchpad</a>
+                                            <a class="nav-link p-0 text-dark active" target="_blank" rel="noreferrer" href="https://www.launchpad.dnbclassic.io/">Launchpad</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="nav-link p-0 text-dark" target="_blank" rel="noreferrer" href="https://docs.digipad.io/">Docs</a>
+                                            <a class="nav-link p-0 text-dark" target="_blank" rel="noreferrer" href="https://docs.dnbclassic.io/">Docs</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="nav-link p-0 text-dark" rel="noreferrer"  target="_blank" href="https://stake.digipad.io/">Stake</a>
+                                            <a class="nav-link p-0 text-dark" rel="noreferrer"  target="_blank" href="https://stake.dnbclassic.io/">Stake</a>
                                         </li>
                                         <li class="nav-item">
                                             <a class="nav-link p-0 text-dark" href="#sec">Swap</a>
@@ -77,7 +77,7 @@ export default function Header() {
                         {/* <!--MOBILE MENU--> */}
                         <div class="offcanvas offcanvas-start" tabindex="-1" id="offcanvasExample" aria-labelledby="offcanvasExampleLabel">
                             <div class="offcanvas-header">
-                                <a class="navbar-brand p-0" href="https://digipad.io" target="_blank" rel="noreferrer">
+                                <a class="navbar-brand p-0" href="https://dnbclassic.io" target="_blank" rel="noreferrer">
                                     <img src={logoBlack} class="lazy" alt="logo-blkc" />
                                 </a>
                                 <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas" aria-label="Close"></button>
@@ -85,19 +85,19 @@ export default function Header() {
                             <div class="offcanvas-body">
                                 <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
                                     <li class="nav-item">
-                                        <a class="nav-link p-0 text-dark active" aria-current="page" target="_blank" rel="noreferrer" href="https://digipad.io">Home</a>
+                                        <a class="nav-link p-0 text-dark active" aria-current="page" target="_blank" rel="noreferrer" href="https://dnbclassic.io">Home</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link p-0 text-dark" target="_blank" rel="noreferrer" href="https://www.launchpad.digipad.io/">Launchpad</a>
+                                        <a class="nav-link p-0 text-dark" target="_blank" rel="noreferrer" href="https://www.launchpad.dnbclassic.io/">Launchpad</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link p-0 text-dark" target="_blank" rel="noreferrer" href="https://stake.digipad.io">Stake</a>
+                                        <a class="nav-link p-0 text-dark" target="_blank" rel="noreferrer" href="https://stake.dnbclassic.io">Stake</a>
                                     </li>
                                     <li class="nav-item">
                                         <a class="nav-link p-0 text-dark" href="#sec">Swap</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link p-0 text-dark" target="_blank" rel="noreferrer" href="https://docs.digipad.io">Docs</a>
+                                        <a class="nav-link p-0 text-dark" target="_blank" rel="noreferrer" href="https://docs.dnbclassic.io">Docs</a>
                                     </li>
                                     <li class="nav-item">
                                         <a class="nav-link p-0 text-dark" href="#sec">Locker</a>

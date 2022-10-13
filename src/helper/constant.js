@@ -6,12 +6,12 @@ export const socialLinks = [
   {
     name : "facebook",
     image : "fa-brands fa-facebook-square fa-2x",
-    link : "https://www.facebook.com/digipadofficial/"
+    link : "https://www.facebook.com/dnbclassicofficial/"
   },
   {
     name : "twitter",
     image : "fa-brands fa-twitter fa-2x",
-    link : "https://twitter.com/digipadofficial/"
+    link : "https://twitter.com/dnbclassicofficial/"
   },
   {
     name : "youtube",
@@ -21,12 +21,12 @@ export const socialLinks = [
   {
     name : "telegram",
     image : "fa-brands fa-telegram fa-2x",
-    link : "https://t.me/digipadglobal/"
+    link : "https://t.me/dnbclassicglobal/"
   },
   {
     name : "github",
     image : "fa-brands fa-github fa-2x",
-    link : "https://github.com/Digipad"
+    link : "https://github.com/Bnbclassic"
   }
 ]
   

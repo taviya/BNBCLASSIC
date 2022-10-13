@@ -201,11 +201,11 @@ export default function Home() {
                         <div class="col-12">
                             <div class="d-flex justify-content-between flex-wrap gap-3 py-sm-3">
                                 <div class="align-items-center d-flex gap-3">
-                                    <a href="https://www.digipad.io/" target="_blank" rel="noreferrer" class="px-2 py-1 rounded-pill bg-primary text-white">
+                                    <a href="https://www.dnbclassic.io/" target="_blank" rel="noreferrer" class="px-2 py-1 rounded-pill bg-primary text-white">
                                         <i class="fa-solid fa-globe mx-1"></i>
                                         Website
                                     </a>
-                                    <a href="https://docs.digipad.io/" target="_blank" rel="noreferrer" class="scale">
+                                    <a href="https://docs.dnbclassic.io/" target="_blank" rel="noreferrer" class="scale">
                                         <img src={contractsolid} alt="contract-icon" />
                                     </a>
                                     {/* <a href="#coinmarketcap" target="_blank" rel="noreferrer"  class="scale">
@@ -283,17 +283,17 @@ export default function Home() {
                             <div class="d-flex align-items-center justify-content-between mb-sm-5 mb-4">
                                 <div class="align-items-center d-flex gap-4">
                                     <img src={slogo} class="img-fluid" alt="logo" />
-                                    <h3 class="fs-28 fw-bold">Digipad Ecosystem</h3>
+                                    <h3 class="fs-28 fw-bold">Bnbclassic Ecosystem</h3>
                                 </div>
                                 <div class="d-flex gap-2">
                                     <h4 class="tag-btn text-uppercase text-center bg-yellow">
-                                        <a href="https://docs.digipad.io/documents/contract-audit-report" target="_blank" rel="noreferrer">Audit</a>
+                                        <a href="https://docs.dnbclassic.io/documents/contract-audit-report" target="_blank" rel="noreferrer">Audit</a>
                                     </h4>
                                     <h4 class="tag-btn text-uppercase text-center bg-purple">
-                                        <a href="https://docs.digipad.io/documents/team-kyc" target="_blank" rel="noreferrer">kyc</a>
+                                        <a href="https://docs.dnbclassic.io/documents/team-kyc" target="_blank" rel="noreferrer">kyc</a>
                                     </h4>
                                     <h4 class="tag-btn text-uppercase text-center bg-pink">
-                                        <a href="https://docs.digipad.io/documents/pinksale-safu" target="_blank" rel="noreferrer">SAFU</a>
+                                        <a href="https://docs.dnbclassic.io/documents/pinksale-safu" target="_blank" rel="noreferrer">SAFU</a>
                                     </h4>
                                 </div>
                                 {/* <div class="d-flex gap-3">
@@ -303,7 +303,7 @@ export default function Home() {
                             </div>
 
                             <p class="mb-4 mb-sm-5">
-                                Digipad is a private investment launchpad for global crypto investors, ventures & startups. We are committed to create safer investment zone for private investors & on boarding the best crypto startups for our ecosystem users. Our ecosystem’s core product - Private Sale Launchpad & Staking platform is already Live. Digiswap & Token Locker is also ready to launch. . Digipad have complete team KYC & safe smart contract - audited by InterFi. We also achieved SAFU badge by our public sale partner Pinksale.
+                                Bnbclassic is a private investment launchpad for global crypto investors, ventures & startups. We are committed to create safer investment zone for private investors & on boarding the best crypto startups for our ecosystem users. Our ecosystem’s core product - Private Sale Launchpad & Staking platform is already Live. Digiswap & Token Locker is also ready to launch. . Bnbclassic have complete team KYC & safe smart contract - audited by InterFi. We also achieved SAFU badge by our public sale partner Pinksale.
                             </p>
 
 

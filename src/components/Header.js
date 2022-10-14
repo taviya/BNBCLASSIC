@@ -37,12 +37,12 @@ export default function Header() {
                                                 href="https://dnbclassic.io/">Home</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="nav-link p-0 text-dark active" target="_blank" rel="noreferrer" href="https://www.launchpad.dnbclassic.io/">Launchpad</a>
+                                            <a class="nav-link p-0 text-dark active" target="_blank" rel="noreferrer" href="https://www.launchpad.dnbclassic.io/">Presale</a>
                                         </li>
                                         <li class="nav-item">
                                             <a class="nav-link p-0 text-dark" target="_blank" rel="noreferrer" href="https://docs.dnbclassic.io/">Docs</a>
                                         </li>
-                                        <li class="nav-item">
+                                        {/* <li class="nav-item">
                                             <a class="nav-link p-0 text-dark" rel="noreferrer"  target="_blank" href="https://stake.dnbclassic.io/">Stake</a>
                                         </li>
                                         <li class="nav-item">
@@ -50,11 +50,11 @@ export default function Header() {
                                         </li>
                                         <li class="nav-item">
                                             <a class="nav-link p-0 text-dark" href="#sec">Locker</a>
-                                        </li>
+                                        </li> */}
                                     </ul>
 
                                     {/* <!--LANG-SECTION--> */}
-                                    <div class="dropdown lang-section">
+                                    {/* <div class="dropdown lang-section">
                                         <a class="dropdown-toggle" href="#sec" id="navbarDropdown" role="button"
                                             data-bs-toggle="dropdown" aria-expanded="false">
                                             <img src={flag} class="lazy me-2" alt="" />En
@@ -64,7 +64,7 @@ export default function Header() {
                                                 <img src={flag} class="lazy me-2" alt="" />En
                                             </a></li>
                                         </ul>
-                                    </div>
+                                    </div> */}
                                 </div>
                                 <div class="network on-mobile mr-3">
                                     <img src={bscImage} width="18" class="mx-2" alt="" />

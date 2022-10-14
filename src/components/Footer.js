@@ -43,7 +43,7 @@ export default function Footer() {
                         </div>
                         <div class="col-md-7 col-12 mt-5 mt-md-0">
                             <div class="row">
-                                <div class="col-12 col-sm-4">
+                                {/* <div class="col-12 col-sm-4">
                                     <div class="fs-16 caption d-inline-block pe-sm-5">Product</div>
                                     <div class="align-items-center align-items-sm-start d-flex flex-column gap-2 mb-5 mb-sm-4 ">
                                         <a href="https://www.launchpad.dnbclassic.io" target="_Blank" rel="noreferrer" class="link fs-16 text-white">Launchpad</a>
@@ -51,7 +51,7 @@ export default function Footer() {
                                         <a href="https://stake.dnbclassic.io" target="_Blank" rel="noreferrer" class="link fs-16 text-white">Stake & Earn</a>
                                         <a href="#locker" class="link fs-16 text-white">Locker</a>
                                     </div>
-                                </div>
+                                </div> */}
                                 <div class="col-12 col-sm-4">
                                     <div class="fs-16 caption d-inline-block pe-sm-5">Documents</div>
                                     <div class="align-items-center align-items-sm-start d-flex flex-column gap-2 mb-5 mb-sm-4 ">

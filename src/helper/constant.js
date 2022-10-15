@@ -5,27 +5,27 @@ export const trimAddress = (addr) => {
 export const socialLinks = [
   {
     name : "facebook",
-    image : "fa-brands fa-facebook-square fa-2x",
+    image : "fa-brands fa-facebook-square fa-2x i-color",
     link : "https://www.facebook.com/dnbclassicofficial/"
   },
   {
     name : "twitter",
-    image : "fa-brands fa-twitter fa-2x",
+    image : "fa-brands fa-twitter fa-2x i-color",
     link : "https://twitter.com/dnbclassicofficial/"
   },
   {
     name : "youtube",
-    image : "fa-brands fa-youtube fa-2x",
+    image : "fa-brands fa-youtube fa-2x i-color",
     link : "https://www.youtube.com/channel/UCnzs9zOPCv6-M12ARayj9bA/featured"
   },
   {
     name : "telegram",
-    image : "fa-brands fa-telegram fa-2x",
+    image : "fa-brands fa-telegram fa-2x i-color",
     link : "https://t.me/dnbclassicglobal/"
   },
   {
     name : "github",
-    image : "fa-brands fa-github fa-2x",
+    image : "fa-brands fa-github fa-2x i-color",
     link : "https://github.com/Bnbclassic"
   }
 ]

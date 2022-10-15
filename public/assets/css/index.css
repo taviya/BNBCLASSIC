@@ -71,6 +71,9 @@
     scroll-behavior: smooth;
   }
 }
+.i-color{
+  color: #1560f9;
+}
 
 p {
   text-align: justify;

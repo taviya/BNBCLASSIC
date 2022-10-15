@@ -1,7 +1,7 @@
 import React from 'react'
 import Connect from './Connect';
 import logoBlack from '../images/logo-black.png';
-import logoMobile from '../images/logo-mobile.png';
+import logoMobile from '../images/logo-black.png';
 import bscImage from '../images/binance-coin.svg';
 import flag from '../images/flag.png';
 

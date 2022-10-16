@@ -201,11 +201,11 @@ export default function Home() {
                         <div class="col-12">
                             <div class="d-flex justify-content-between flex-wrap gap-3 py-sm-3">
                                 <div class="align-items-center d-flex gap-3">
-                                    <a href="https://www.dnbclassic.io/" target="_blank" rel="noreferrer" class="px-2 py-1 rounded-pill bg-primary text-white">
+                                    <a href="https://www.bnbclassic.io/" target="_blank" rel="noreferrer" class="px-2 py-1 rounded-pill bg-primary text-white">
                                         <i class="fa-solid fa-globe mx-1"></i>
                                         Website
                                     </a>
-                                    <a href="https://docs.dnbclassic.io/" target="_blank" rel="noreferrer" class="scale">
+                                    <a href="https://docs.bnbclassic.io/" target="_blank" rel="noreferrer" class="scale">
                                         <img src={contractsolid} alt="contract-icon" />
                                     </a>
                                     {/* <a href="#coinmarketcap" target="_blank" rel="noreferrer"  class="scale">
@@ -287,13 +287,13 @@ export default function Home() {
                                 </div>
                                 <div class="d-flex gap-2">
                                     <h4 class="tag-btn text-uppercase text-center bg-yellow">
-                                        <a href="https://docs.dnbclassic.io/documents/contract-audit-report" target="_blank" rel="noreferrer">Audit</a>
+                                        <a href="https://docs.bnbclassic.io/documents/contract-audit-report" target="_blank" rel="noreferrer">Audit</a>
                                     </h4>
                                     <h4 class="tag-btn text-uppercase text-center bg-purple">
-                                        <a href="https://docs.dnbclassic.io/documents/team-kyc" target="_blank" rel="noreferrer">kyc</a>
+                                        <a href="https://docs.bnbclassic.io/documents/team-kyc" target="_blank" rel="noreferrer">kyc</a>
                                     </h4>
                                     <h4 class="tag-btn text-uppercase text-center bg-pink">
-                                        <a href="https://docs.dnbclassic.io/documents/pinksale-safu" target="_blank" rel="noreferrer">SAFU</a>
+                                        <a href="https://docs.bnbclassic.io/documents/pinksale-safu" target="_blank" rel="noreferrer">SAFU</a>
                                     </h4>
                                 </div>
                                 {/* <div class="d-flex gap-3">

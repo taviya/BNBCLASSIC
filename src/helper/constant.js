@@ -6,12 +6,12 @@ export const socialLinks = [
   {
     name : "facebook",
     image : "fa-brands fa-facebook-square fa-2x i-color",
-    link : "https://www.facebook.com/dnbclassicofficial/"
+    link : "https://www.facebook.com/bnbclassicofficial/"
   },
   {
     name : "twitter",
     image : "fa-brands fa-twitter fa-2x i-color",
-    link : "https://twitter.com/dnbclassicofficial/"
+    link : "https://twitter.com/bnbclassicofficial/"
   },
   {
     name : "youtube",
@@ -21,7 +21,7 @@ export const socialLinks = [
   {
     name : "telegram",
     image : "fa-brands fa-telegram fa-2x i-color",
-    link : "https://t.me/dnbclassicglobal/"
+    link : "https://t.me/bnbclassicglobal/"
   },
   {
     name : "github",

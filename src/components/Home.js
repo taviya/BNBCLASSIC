@@ -377,7 +377,7 @@ export default function Home() {
                                     <div>
                                         <div>Price</div>
                                         <div>:</div>
-                                        <div>Fairlaunch Price + 20% Extra</div>
+                                        <div>1 BNB ~ {formatPrice(stats.rate)} {stats.tokenSymbol}</div>
                                     </div>
                                     <div>
                                         <div>Softcap</div>

@@ -11,7 +11,7 @@ export const socialLinks = [
   {
     name : "twitter",
     image : "fa-brands fa-twitter fa-2x i-color",
-    link : "https://twitter.com/bnbclassicofficial/"
+    link : "https://twitter.com/classic_bnb?t=nepFFzw8piEjivod6MkyWg&s=09/"
   },
   {
     name : "youtube",

@@ -225,13 +225,13 @@ export default function Home() {
 
                                     </div>
                                 </div>
-                                <div class={`align-items-center d-flex justify-content-center px-2 rounded-pill ${!stats.poolState ? 'text-danger' : stats.endTime < Math.floor(new Date().getTime() / 1000.0) ? 'text-danger' :
+                                {/* <div class={`align-items-center d-flex justify-content-center px-2 rounded-pill ${!stats.poolState ? 'text-danger' : stats.endTime < Math.floor(new Date().getTime() / 1000.0) ? 'text-danger' :
                                     stats.endTime > Math.floor(new Date().getTime() / 1000.0) && stats.startTime < Math.floor(new Date().getTime() / 1000.0) ? 'text-success' : stats.startTime > Math.floor(new Date().getTime() / 1000.0) ? 'text-warning' : 'text-danger'}`}
                                     style={{ "background": "#A6EEB6" }}>
                                     <i class="fa-solid fa-circle me-2" style={{ "fontSize": "8px" }}></i>
                                     {stats && !stats.poolState ? 'Closed' : stats.endTime < Math.floor(new Date().getTime() / 1000.0) ? 'Closed' :
                                         stats.endTime > Math.floor(new Date().getTime() / 1000.0) && stats.startTime < Math.floor(new Date().getTime() / 1000.0) ? 'Sale Live' : stats.startTime > Math.floor(new Date().getTime() / 1000.0) ? 'Upcoming' : 'None'}
-                                </div>
+                                </div> */}
                             </div>
                         </div>
                         {/* <!-- COUNT-DOWN-BUY-NOW--> */}

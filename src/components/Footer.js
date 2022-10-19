@@ -1,5 +1,5 @@
 import React from "react";
-import media from '../images/media.png';
+// import media from '../images/media.png';
 import logoBlack from '../images/logo-black.png';
 
 export default function Footer() {
@@ -19,23 +19,14 @@ export default function Footer() {
                                         Contact us: support@bnbclassic.io
                                     </p>
                                     <div class="social-icon d-flex gap-3">
-                                        <a href="https://www.facebook.com/bnbclassicofficial/" target="_Blank" rel="noreferrer" class="caption-color">
-                                            <i class="fa-brands fa-facebook-square"></i>
-                                        </a>
-                                        <a href="https://twitter.com/classic_bnb?t=nepFFzw8piEjivod6MkyWg&s=09" target="_Blank" rel="noreferrer" class="caption-color">
+                                        <a href="https://twitter.com/bnbclassicofficial" target="_Blank" rel="noreferrer" class="caption-color">
                                             <i class="fa-brands fa-twitter"></i>
                                         </a>
-                                        <a href="https://www.youtube.com/channel/UCnzs9zOPCv6-M12ARayj9bA/featured" target="_Blank" rel="noreferrer" class="caption-color">
-                                            <i class="fa-brands fa-youtube"></i>
-                                        </a>
-                                        <a href="https://t.me/bnbclassicglobal" target="_Blank" rel="noreferrer" class="caption-color">
+                                        <a href="https://t.me/+zKJVcSMDnMpmNjE0" target="_Blank" rel="noreferrer" class="caption-color">
                                             <i class="fa-brands fa-telegram"></i>
                                         </a>
-                                        <a href="https://medium.com/@bnbclassicofficial" target="_Blank" rel="noreferrer" class="caption-color">
-                                            <img class="w-100 lazy" src={media} alt="media" />
-                                        </a>
-                                        <a href="https://github.com/Bnbclassic" target="_Blank" rel="noreferrer" class="caption-color">
-                                            <i class="fa-brands fa-github"></i>
+                                        <a href="https://t.me/+bmG_6lF_nL83YTg8" target="_Blank" rel="noreferrer" class="caption-color">
+                                            <i class="fa-brands fa-telegram"></i>
                                         </a>
                                     </div>
                                 </div>
